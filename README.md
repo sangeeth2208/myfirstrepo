@@ -3,7 +3,7 @@
 * abc 
 - abc
 `hello welcome`
-- [ ] GFM task list 3
+- [x] GFM task list 3
 
 ### table
 col1 | col2 
