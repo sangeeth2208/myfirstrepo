@@ -12,7 +12,7 @@ name|23
 hello|90
 
 >note
-hwdtfdha mnbjhagsgajAGSDJSNBCN NFWFDGWHOJB
+>hwdtfdha mnbjhagsgajAGSDJSNBCN NFWFDGWHOJB
 SHGDHSGJHSKJTRTDFeewrt jjiuggh mbkj
 
 
