@@ -10,6 +10,7 @@ col1 | col2
 -------|-------|
 name|23
 hello|90
+hello|90
 
 >note
 >hwdtfdha mnbjhagsgajAGSDJSNBCN NFWFDGWHOJB
